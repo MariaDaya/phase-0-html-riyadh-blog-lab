@@ -6,11 +6,12 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
+  background: rgba(47,79,79,1);
 }
 
 .wrapper {
@@ -43,6 +44,8 @@ h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: darkred;
+  font-size: 30px;
 }
 
 img {
@@ -53,6 +56,7 @@ img {
 
 p {
   font-size: 1em;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
 a {
